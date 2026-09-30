@@ -1,0 +1,16 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# BSKD
+BSKD
+
+# .pt
+checkpoints/*.pt
+
+# tmp
+tmp
+
+# some md
+proj.md
